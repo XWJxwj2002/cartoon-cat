@@ -5,7 +5,7 @@ import cartoon_cat as cc
 if __name__ == '__main__':
 
     # 一拳超人
-    site = 'https://m.36mh.com/manhua/yiquanchaoren/#chapters'
+    site = 'https://rouman5.com/books/afb66e15-bd3b-46cf-bf13-9bf858bf6890'
 
     crawler = cc.CartoonCat(
         site=site,                                  # 漫画首页
