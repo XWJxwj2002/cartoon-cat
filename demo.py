@@ -5,7 +5,7 @@ import cartoon_cat as cc
 if __name__ == '__main__':
 
     # 一拳超人
-    site = 'https://rouman5.com/books/afb66e15-bd3b-46cf-bf13-9bf858bf6890'
+    site = 'https://rouman5.com/books/55a4a769-296a-457c-b718-d9e47a107a38/126'
 
     crawler = cc.CartoonCat(
         site=site,                                  # 漫画首页
